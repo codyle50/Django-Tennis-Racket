@@ -60,7 +60,7 @@ Finding a new tennis racket can be challenging and tricky even for advance tenni
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/Ceci-Aguilera/rate-my-racket.git
+    git clone {repo_url}
     ```
 1. Copy a default setup of the environment variables for the project:
     ```bash
@@ -86,7 +86,7 @@ Finding a new tennis racket can be challenging and tricky even for advance tenni
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/Ceci-Aguilera/rate-my-racket.git
+    git clone {repo_url}
     ```
 
 1. Copy a default configuration of the environment variables for Django:
